@@ -10,6 +10,10 @@
 		{
 			"name": "Hello-WebServer",
 			"path": "Hello-WebServer"
+		},
+		{
+			"name": "WebSensor",
+			"path": "WebSensor"
 		}
 	],
 	"settings": {}
