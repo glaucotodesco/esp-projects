@@ -5,7 +5,7 @@
 
 # Build and Upload
 - Go to the project folder
-- Type: pio run --targer upload
+- Type: pio run --target upload
 
 # Monitor
 - Type: pio device monitor
