@@ -2,6 +2,14 @@
 	"folders": [
 		{
 			"path": "Hello"
+		},
+		{
+			"name": "Hello-Wifi",
+			"path": "Hello-Wifi"
+		},
+		{
+			"name": "Hello-WebServer",
+			"path": "Hello-WebServer"
 		}
 	],
 	"settings": {}
