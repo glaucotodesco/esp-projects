@@ -17,6 +17,10 @@
 		},
 		{
 			"path": "Hello-Oled"
+		},
+		{
+			"name": "WebSensor-Oled",
+			"path": "WebSensor-Oled"
 		}
 	],
 	"settings": {}
