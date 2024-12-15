@@ -1,7 +1,7 @@
 # ESP Projects Setup
 - Install VSCode
 - Install PlataformIO Extension
-- Configure your USB Driver: CH340 ou CP210x.
+- Configure your USB Driver: CP210x.
 
 # Build and Upload
 - Go to the project folder
