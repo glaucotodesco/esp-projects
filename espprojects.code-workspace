@@ -14,6 +14,9 @@
 		{
 			"name": "WebSensor",
 			"path": "WebSensor"
+		},
+		{
+			"path": "Hello-Oled"
 		}
 	],
 	"settings": {}
