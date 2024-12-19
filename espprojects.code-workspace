@@ -21,6 +21,10 @@
 		{
 			"name": "WebSensor-Oled",
 			"path": "WebSensor-Oled"
+		},
+		{
+			"name": "WebSensor-Oled-MQTT",
+			"path": "WebSensor-Oled-MQTT"
 		}
 	],
 	"settings": {}
