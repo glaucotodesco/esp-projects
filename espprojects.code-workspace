@@ -25,6 +25,14 @@
 		{
 			"name": "WebSensor-Oled-MQTT",
 			"path": "WebSensor-Oled-MQTT"
+		},
+		{
+			"name": "LoraWan-Sender",
+			"path": "LoraWan-Sender"
+		},
+		{
+			"name": "LoraWan-Receiver",
+			"path": "LoraWan-Receiver"
 		}
 	],
 	"settings": {}
